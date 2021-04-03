@@ -1,6 +1,6 @@
 # Description
 
-The aim of the project is to build a Machine Learning Model to identify the most unengaged users in Fin Tech industry to help them implement business actions to convert them to engaged users.
+The aim of the project is to build a machine learning model to identify the unengaged users in Fin Tech industry to help them implement business actions to convert them to engaged users.
 
 # Datasets
 
@@ -25,7 +25,9 @@ The solution has been built over Python using Pandas and Machine Learning models
 
 
 <b>Profiling:-</b>
+
 On generating the profile report over the datasets, we gathered the below observations.
+
 Monthly Market details: 
 - It’s comprised of customer demographic columns like user id, country, user creation date, plan type, etc.
 - Out of 43 columns, there’re 24 categorical and 19 numerical with total no of observation being 143316.
@@ -42,18 +44,19 @@ Transaction details:
 
 <b>Tableau Visualization:-</b>
 
-The dataset was visualized over tableau to answer questions like below and the respective solutions as .twbx file, is made available in the Task1, under the visualization folder. 
-- 1. What can be inferred from the distribution of the total amount_usd transactions across different transactions_state? 
-- 2. Which transactions_type has been most beneficial to ParTech monetarily
-- 3. Which type of transactions has the highest amount_usd of non-COMPLETED transactions? 
-- 4. How does the count of new joiners and the total number of transactions by the new joiners vary across time (day-level)? 
-- 5. What does the overall distribution of distinct users across different countries look like on the world map? 
-- 6. What does the average birth_year of users across different countries look like on the world map?
-- 7. Which plan_type is most popular among the users? 
-- 8. How does the average distribution of each plan_type vary across yearmonth?
-- 9. What is the total number of SENT and FAILED notifications across yearmonth? 
-- 10.What does the box-plot distribution of amount_usd and tx_count across yearmonth tell us about the outliers? 
-- 11.What inferences can be drawn based on average distributions of each transaction direction and transactions_type across ‘yearmonth’s?
+The dataset is visualized over tableau to answer the below questions. The respective solutions is made available for preview at "https://public.tableau.com/profile/shreeya6445#!/".
+
+1. What can be inferred from the distribution of the total amount_usd transactions across different transactions_state? 
+2. Which transactions_type has been most beneficial to ParTech monetarily
+3. Which type of transactions has the highest amount_usd of non-COMPLETED transactions? 
+4. How does the count of new joiners and the total number of transactions by the new joiners vary across time (day-level)? 
+5. What does the overall distribution of distinct users across different countries look like on the world map? 
+6. What does the average birth_year of users across different countries look like on the world map?
+7. Which plan_type is most popular among the users? 
+8. How does the average distribution of each plan_type vary across yearmonth?
+9. What is the total number of SENT and FAILED notifications across yearmonth? 
+10.What does the box-plot distribution of amount_usd and tx_count across yearmonth tell us about the outliers? 
+11.What inferences can be drawn based on average distributions of each transaction direction and transactions_type across ‘yearmonth’s?
 
 
 <b>Understanding:-</b>
