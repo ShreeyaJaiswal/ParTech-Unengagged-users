@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ShreeyaJaiswal/Unengaged-users/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Description
 
 The aim of the project is to build a machine learning model to identify the unengaged users in Fin Tech industry to help them implement business actions to convert them to engaged users.
